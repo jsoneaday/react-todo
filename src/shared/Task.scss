@@ -8,4 +8,8 @@
     grid-template-columns: auto;
     grid-template-rows: 1fr auto 1fr;
   }
-  
+
+  .task-container {
+    max-height: 400px;
+    overflow-y: scroll;
+  }

@@ -1,4 +1,9 @@
 {
-    "window.zoomLevel": 1,
-    "git.ignoreLimitWarning": true
+    "window.zoomLevel": 2,
+    "git.ignoreLimitWarning": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": false
+    }
 }
